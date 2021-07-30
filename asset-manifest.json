@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AITG/static/css/main.a3718f0b.chunk.css",
+    "main.js": "/AITG/static/js/main.01b6fc37.chunk.js",
+    "main.js.map": "/AITG/static/js/main.01b6fc37.chunk.js.map",
+    "runtime-main.js": "/AITG/static/js/runtime-main.e81c2d46.js",
+    "runtime-main.js.map": "/AITG/static/js/runtime-main.e81c2d46.js.map",
+    "static/css/2.3c328e4c.chunk.css": "/AITG/static/css/2.3c328e4c.chunk.css",
+    "static/js/2.9a88dfb4.chunk.js": "/AITG/static/js/2.9a88dfb4.chunk.js",
+    "static/js/2.9a88dfb4.chunk.js.map": "/AITG/static/js/2.9a88dfb4.chunk.js.map",
+    "index.html": "/AITG/index.html",
+    "static/css/2.3c328e4c.chunk.css.map": "/AITG/static/css/2.3c328e4c.chunk.css.map",
+    "static/css/main.a3718f0b.chunk.css.map": "/AITG/static/css/main.a3718f0b.chunk.css.map",
+    "static/js/2.9a88dfb4.chunk.js.LICENSE.txt": "/AITG/static/js/2.9a88dfb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81c2d46.js",
+    "static/css/2.3c328e4c.chunk.css",
+    "static/js/2.9a88dfb4.chunk.js",
+    "static/css/main.a3718f0b.chunk.css",
+    "static/js/main.01b6fc37.chunk.js"
+  ]
+}
