@@ -1,22 +1,48 @@
 import React from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
-import Button from "react-bootstrap/Button";
-import Form from "react-bootstrap/Form";
-import FormControl from "react-bootstrap/FormControl";
+import logo from "../Image/logo.jpeg";
 
+const nvaComponent = (data) => {
+  return (
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="#">
+        {data}
+      </a>
+    </li>
+  );
+};
 export const NavbarHeader = () => {
   return (
     <>
-      <nav className="navbar navbar-light bg-primary ">
-        <div className="container-fluid ">
-          <div className="navbar-header">
-            <a className="navbar-brand" href="#">
-              <h3>Nidhi Bank Software</h3>
-              <small>
-                <i>software designed by Awdhancal IT group</i>
-              </small>
-            </a>
+      <nav class="navbar navbar-expand-lg navbar-light bg-primary static-top">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img src={logo} alt="logo" height="36" />
+            <span _ngcontent-serverapp-c113="" class="ms-2">
+              <strong>AWADHANCHAL IT GROUP</strong>
+            </span>
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div
+            class="collapse navbar-collapse space-around"
+            id="navbarSupportedContent"
+          >
+            <ul class="navbar-nav ms-auto">
+              {nvaComponent("Home")}
+              {nvaComponent("About US")}
+              {nvaComponent("Our Product")}
+              {nvaComponent("Carrer")}
+              {nvaComponent("Contact")}
+            </ul>
           </div>
         </div>
       </nav>
