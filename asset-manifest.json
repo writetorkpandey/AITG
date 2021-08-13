@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AITG/static/css/main.fae62934.chunk.css",
-    "main.js": "/AITG/static/js/main.186f1294.chunk.js",
-    "main.js.map": "/AITG/static/js/main.186f1294.chunk.js.map",
+    "main.css": "/AITG/static/css/main.69b35ce3.chunk.css",
+    "main.js": "/AITG/static/js/main.f18772f6.chunk.js",
+    "main.js.map": "/AITG/static/js/main.f18772f6.chunk.js.map",
     "runtime-main.js": "/AITG/static/js/runtime-main.e81c2d46.js",
     "runtime-main.js.map": "/AITG/static/js/runtime-main.e81c2d46.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/AITG/static/css/2.fb17aa6d.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.f829cf17.chunk.js.map": "/AITG/static/js/2.f829cf17.chunk.js.map",
     "index.html": "/AITG/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "/AITG/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.fae62934.chunk.css.map": "/AITG/static/css/main.fae62934.chunk.css.map",
+    "static/css/main.69b35ce3.chunk.css.map": "/AITG/static/css/main.69b35ce3.chunk.css.map",
     "static/js/2.f829cf17.chunk.js.LICENSE.txt": "/AITG/static/js/2.f829cf17.chunk.js.LICENSE.txt",
     "static/media/logo.04b47028.jpeg": "/AITG/static/media/logo.04b47028.jpeg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.e81c2d46.js",
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.f829cf17.chunk.js",
-    "static/css/main.fae62934.chunk.css",
-    "static/js/main.186f1294.chunk.js"
+    "static/css/main.69b35ce3.chunk.css",
+    "static/js/main.f18772f6.chunk.js"
   ]
 }
